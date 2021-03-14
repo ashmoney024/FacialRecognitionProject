@@ -1,7 +1,6 @@
 # FacialRecognitionProject
 ARV Facial Recognition project: 
 
-## Contributors:
+## Sources Cited:
 
-Testing in vs code to see if edits work properly Ashwin 
-Hello making new line
+
