@@ -1,8 +1,6 @@
+#image detection complete
+
 import cv2
-
-#other image file detection
-#find out why cant import cv2
-
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
