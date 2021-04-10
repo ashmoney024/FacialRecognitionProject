@@ -2,6 +2,7 @@
 import face_recognition
 import numpy as np
 import cv2
+import numpy
 
 video_capture = cv2.VideoCapture(0)
 
