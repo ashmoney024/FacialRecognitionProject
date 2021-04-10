@@ -1,4 +1,3 @@
-import numpy
 import cv2
 
 #other image file detection
