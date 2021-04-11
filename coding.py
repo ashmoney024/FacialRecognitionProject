@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw
 import face_recognition
 
 # loading image file
-image = face_recognition.load_image_file("insert name of image here exp: ashwin.png")
+image = face_recognition.load_image_file("usingpic.PNG")
 
 face_locations = face_recognition.face_locations(image)
 
@@ -29,6 +29,7 @@ for location in face_locations:
 
     #instead of printing out faces put boxes on faces in picture
     draw.rectangle(((left, top), (right, bottom)), outline =(0, 255, 0)
+
 
 pil_image.show()
 

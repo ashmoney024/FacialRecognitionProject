@@ -1,4 +1,4 @@
-#image detection complete
+#image file detection code: complete
 
 import cv2
 
